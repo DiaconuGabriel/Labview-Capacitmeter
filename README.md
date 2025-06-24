@@ -11,6 +11,7 @@ This project details the development of a virtual capacitmeter using a 74HC14 Sc
 
 </div>
 
+For the oscilator to work pins 3, 5, 9, 11, 13 need to be connected to 5V.
 
 This circuit generates a square wave signal whose frequency is determined by the formula:
 
